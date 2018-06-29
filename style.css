@@ -1,13 +1,19 @@
 p {
   font-family: Arial;
+  color: white;
 }
+
+body {
+	background-color: black;
+	}
 
 h1 {
-  color: maroon;
+  color: pink;
 }
 
-h2.destination {
+h2{
   font-family: cursive;
+  color: white;
 }
 
 .title {
@@ -38,4 +44,12 @@ h5{
 
 h5,p{
   font-family: Georgia;
+}
+
+h3{
+	color: white;
+}
+
+li{
+	color: white;
 }
